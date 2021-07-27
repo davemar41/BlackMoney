@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">BlackMoney</string>
+    <string name="entrar">entrar</string>
+    <string name="ahorro">ahorro</string>
+    <string name="diez">diez</string>
+    <string name="doce">doce</string>
+    <string name="domicilio">domicilio</string>
+    <string name="quince">quince</string>
+    <string name="trece">trece</string>
+    <string name="volver">volver</string>
+    <string name="grabar">grabar</string>
+    <string name="borrar">borrar</string>
+</resources>
